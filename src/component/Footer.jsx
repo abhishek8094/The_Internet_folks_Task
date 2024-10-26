@@ -2,7 +2,7 @@ import { Box, Text } from "@chakra-ui/react";
 import Van from "../../public/images/Van.svg";
 import InstagramIcon from "../../public/images/Instagram.svg";
 import XIcon from "../../public/images/X.svg";
-import FacebookIcon from "../../public/images/Facebook.svg";
+import FacebookIcon from "../../public/images/facebook.svg";
 
 const ContactUs = [
   "Contact Us",
